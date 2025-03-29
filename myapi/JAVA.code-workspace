@@ -1,0 +1,37 @@
+{
+	"folders": [
+		{
+			"path": "../../../JAVA"
+		},
+		{
+			"path": "../../../NOTES"
+		},
+		{
+			"path": "../../../PYTHON"
+		},
+		{
+			"path": "../../../WEB DEVELOPMENT"
+		},
+		{
+			"path": "../../../studybud"
+		},
+		{
+			"path": "C:/Users/jainc/studybud"
+		},
+		{
+			"path": "../../../django in one video"
+		},
+		{
+			"path": "../../../DJANGO-COURSE-YOUTUBE"
+		},
+		{
+			"path": "../../../HACKRUX"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "WEB DEVELOPMENT"
+	}
+}
